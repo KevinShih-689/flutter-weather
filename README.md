@@ -3,10 +3,16 @@
 
 ## Getting Started
 ### 1. Clone Project
+```
+$ git clone git@github.com:KevinShih-689/flutter_weather.git
+```
 ### 2. Install VS code plugin: emulator
+https://marketplace.visualstudio.com/items?itemName=DiemasMichiels.emulate
 ### 3. press `⌘`+`SHIFT`+`P`, and type `emulator` to choose the device you want to.
+
 ### 4. Press `fn` + `F5`, to run the project
 
+## Guide
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
@@ -22,3 +28,5 @@ samples, guidance on mobile development, and a full API reference.
 * ##### Flutter
 
 
+## Reference
+* ##### [Component Widget](https://marketplace.visualstudio.com/items?itemName=DiemasMichiels.emulate)
