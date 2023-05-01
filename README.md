@@ -2,6 +2,10 @@
 📱 A mobile application developed using the Flutter framework that can display current weather in Taiwan
 
 ## Getting Started
+### 1. Clone Project
+### 2. Install VS code plugin: emulator
+### 3. press `⌘`+`SHIFT`+`P`, and type `emulator` to choose the device you want to.
+### 4. Press `fn` + `F5`, to run the project
 
 This project is a starting point for a Flutter application.
 
@@ -16,7 +20,5 @@ samples, guidance on mobile development, and a full API reference.
 ## VS code tool
 * ##### Android iOS emulator
 * ##### Flutter
-## Virtual Device
-* ###### press `⌘`+`SHIFT`+`P`, and type `emulator` to choose the device you want to.
 
 
